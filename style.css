@@ -50,7 +50,7 @@ label {
     font-size: 1.8rem;
 }
 
-button[type=button] {
+button[type=submit] {
     font-size: 1.8rem;
     background-color: #052096;
     color: #fff;
